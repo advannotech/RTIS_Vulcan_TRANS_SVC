@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="RTServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MSI\PADDYSQL</Value>
+    </Setting>
+    <Setting Name="RTDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CAT_RTIS</Value>
+    </Setting>
+    <Setting Name="RTUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="RTPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">62017</Value>
+    </Setting>
+    <Setting Name="EvoServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MSI\PADDYSQL</Value>
+    </Setting>
+    <Setting Name="EvoDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cataler_SCN</Value>
+    </Setting>
+    <Setting Name="EvoUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="EvoPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">62017</Value>
+    </Setting>
+    <Setting Name="EvoComServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MSI\PADDYSQL</Value>
+    </Setting>
+    <Setting Name="EvoComDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CAT_EvolutionCommon</Value>
+    </Setting>
+    <Setting Name="EvoComUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="EvoComPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">62017</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

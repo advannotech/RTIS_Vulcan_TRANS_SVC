@@ -1,0 +1,14 @@
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\bin\Debug\RTIS_Vulcan_TRANS_SVC.exe.config
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\bin\Debug\RTIS_Vulcan_TRANS_SVC.exe
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\bin\Debug\RTIS_Vulcan_TRANS_SVC.pdb
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\bin\Debug\RTIS_Vulcan_TRANS_SVC.xml
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\bin\Debug\Pastel.Evolution.dll
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.vbprojAssemblyReference.cache
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.Form1.resources
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.Resources.resources
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.vbproj.GenerateResource.cache
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.vbproj.CoreCompileInputs.cache
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.vbproj.CopyComplete
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.exe
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.xml
+D:\Reltech Solutions\GIT\Cataler\TRANS SVC\RTIS_Vulcan_TRANS_SVC\RTIS_Vulcan_TRANS_SVC\obj\Debug\RTIS_Vulcan_TRANS_SVC.pdb
